@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoreApp", "ScoreApp\ScoreApp.csproj", "{660494B5-7524-424A-91E7-60C14E152222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{660494B5-7524-424A-91E7-60C14E152222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{660494B5-7524-424A-91E7-60C14E152222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{660494B5-7524-424A-91E7-60C14E152222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{660494B5-7524-424A-91E7-60C14E152222}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6EBAEA7-5C4B-4BC1-B1A4-8C8E3BEA300F}
+	EndGlobalSection
+EndGlobal
